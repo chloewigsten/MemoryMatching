@@ -26,6 +26,8 @@ Technologies Used:
     Javascript was used to create the ability to clicks the start and restart buttons and have them "hide" the letters on the cards. It was also used to create the functionality to click the cards and have the letters reveal themselves, and when two cards are revealed with the same letters, the background changes to purple. 
     
 Getting Started**: In this section include the link to your deployed game and any instructions you deem important.
+
+https://chloewigsten.github.io/MemoryMatching/
     
 Next Steps**: Planned future enhancements (icebox items).
 
